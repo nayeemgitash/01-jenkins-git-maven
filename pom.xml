@@ -18,4 +18,10 @@
   <build>
     <finalName>01-jenkins-git-maven</finalName>
   </build>
+  <properties>
+
+ <sonar.host.url>http://3.110.119.22:9000/</sonar.host.url>
+ <sonar.login>fd4140f7a1d97a95fa17e9705b39f7548aba2c4c</sonar.login>
+ 
+</properties>
 </project>
